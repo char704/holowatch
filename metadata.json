@@ -1,0 +1,6 @@
+{
+  "name": "HoloWatch",
+  "description": "VTuber live dashboard web app for Hololive fans. View live streams, schedules, search and discover content with a modern and dark design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
